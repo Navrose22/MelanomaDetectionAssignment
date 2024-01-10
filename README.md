@@ -68,10 +68,10 @@ Once satisfied with the model's performance, deploy it for melanoma detection in
 ## Model Architecture
 ## Model Evaluation
 ## References
-About Melanoma Skin Cancer  https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)-radiation-and-skin-cancer?
-About CNN from https://chat.openai.com/
-CNN architecture from https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7
-Melanoma Detection using Custom CNN Models from https://chat.openai.com/
+- About Melanoma Skin Cancer  https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)-radiation-and-skin-cancer?
+- About CNN from https://chat.openai.com/
+- CNN architecture from https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7
+- Melanoma Detection using Custom CNN Models from https://chat.openai.com/
 
 
 ## Contact
